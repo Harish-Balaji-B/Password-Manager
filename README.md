@@ -44,6 +44,11 @@ The flowchart shows the steps involved in encrypting a block of data (plaintext)
 
 ### Website
 
+![lmao](https://github.com/Harish-Balaji-B/Password-Manager/blob/main/Sample/web1.png)<br>
+
+![lmao](https://github.com/Harish-Balaji-B/Password-Manager/blob/main/Sample/web2.jpg)<br>
+
+![lmao](https://github.com/Harish-Balaji-B/Password-Manager/blob/main/Sample/web3.jpg)<br>
 
 ## Future Work
 In advancing this password management system, several key areas warrant exploration. First, the integration of biometric authentication can enhance user convenience and security. Additionally, the implementation of a robust intrusion detection system and anomaly detection algorithms will fortify the application against evolving cyber threats. Enhancing scalability through cloud-based storage solutions and exploring blockchain for decentralized security measures are avenues for consideration. To improve user experience, incorporating a comprehensive password strength evaluation mechanism and refining the user interface for mobile responsiveness will be beneficial. Lastly, continuous security audits and adherence to emerging cryptographic standards will ensure the system remains resilient in the face of emerging threats, contributing to a sustainable and secure password management solution.
