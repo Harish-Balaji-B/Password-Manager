@@ -33,7 +33,18 @@ The code includes error handling mechanisms to provide meaningful feedback to us
 ## AES Encryption:
 The flowchart shows the steps involved in encrypting a block of data (plaintext) using the AES algorithm. The first step is to add the plaintext to the initial key (K0). This is followed by nine rounds of transformations.
 
+![lmao](https://github.com/Harish-Balaji-B/Password-Manager/blob/main/Sample/aes.jpg)<br>
 ## SHA 256
 
+![lmao](https://github.com/Harish-Balaji-B/Password-Manager/blob/main/Sample/sha.jpg)<br>
 
 ## Implementation
+
+![lmao](https://github.com/Harish-Balaji-B/Password-Manager/blob/main/Sample/pm.jpg)<br>
+
+### Website
+
+
+## Future Work
+In advancing this password management system, several key areas warrant exploration. First, the integration of biometric authentication can enhance user convenience and security. Additionally, the implementation of a robust intrusion detection system and anomaly detection algorithms will fortify the application against evolving cyber threats. Enhancing scalability through cloud-based storage solutions and exploring blockchain for decentralized security measures are avenues for consideration. To improve user experience, incorporating a comprehensive password strength evaluation mechanism and refining the user interface for mobile responsiveness will be beneficial. Lastly, continuous security audits and adherence to emerging cryptographic standards will ensure the system remains resilient in the face of emerging threats, contributing to a sustainable and secure password management solution.
+
